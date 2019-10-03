@@ -1,0 +1,4 @@
+C:\Users\LG\Desktop\c#\c-syab\c샵-입력받아서문제풀기\c샵-입력받아서문제풀기\bin\Release\c샵-입력받아서문제풀기.exe
+C:\Users\LG\Desktop\c#\c-syab\c샵-입력받아서문제풀기\c샵-입력받아서문제풀기\bin\Release\c샵-입력받아서문제풀기.pdb
+C:\Users\LG\Desktop\c#\c-syab\c샵-입력받아서문제풀기\c샵-입력받아서문제풀기\obj\x86\Release\c샵-입력받아서문제풀기.exe
+C:\Users\LG\Desktop\c#\c-syab\c샵-입력받아서문제풀기\c샵-입력받아서문제풀기\obj\x86\Release\c샵-입력받아서문제풀기.pdb

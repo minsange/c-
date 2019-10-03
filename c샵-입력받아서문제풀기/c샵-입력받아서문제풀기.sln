@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c샵-입력받아서문제풀기", "c샵-입력받아서문제풀기\c샵-입력받아서문제풀기.csproj", "{4A6CCFB3-7EE8-4326-B3B2-E3A61EB65CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A6CCFB3-7EE8-4326-B3B2-E3A61EB65CF5}.Debug|x86.ActiveCfg = Debug|x86
+		{4A6CCFB3-7EE8-4326-B3B2-E3A61EB65CF5}.Debug|x86.Build.0 = Debug|x86
+		{4A6CCFB3-7EE8-4326-B3B2-E3A61EB65CF5}.Release|x86.ActiveCfg = Release|x86
+		{4A6CCFB3-7EE8-4326-B3B2-E3A61EB65CF5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
